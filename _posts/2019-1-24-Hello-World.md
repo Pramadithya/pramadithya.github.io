@@ -10,4 +10,4 @@ but i'll keep the reign so that it'll be enjoyable and more importantly, readabl
 
 So, yeah. Hope we'll get along.
 
-![_config.yml]({{ site.baseurl }}/images/hello_world.png)
+![_config.yml]({{ site.baseurl }}/images/hello_world.PNG)
