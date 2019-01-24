@@ -4,12 +4,17 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Telecommunication Engineering student of Bandung Institute of Technology.
+Chief of Telemetry Departement of Aksantara ITB 2019.
+Expert of Radio and Electronics of Bengkel Radio IMT "Signum" ITB.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+A UAV and satellite enthusiast. 
+A Coffee addict. 
+Appreciates fidelity in sounds reproduction.
+Reads comics in days off.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[pramadithya.herdian@gmail.com](mailto:pramadithya.herdian@gmail.com)
