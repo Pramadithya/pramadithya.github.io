@@ -1,7 +1,9 @@
 ---
-layout: cv
-title: test
+layout: post
+title: Hello World!
 ---
+
+
 # Isaac Newton
 Physicist, Mathematician, Cambridge professor.
 
