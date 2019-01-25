@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Nice to meet you! My name's Pramadithya Herdian
 permalink: /about/
 ---
 ![_config.yml]({{ site.baseurl }}/images/pramadithya_about.jpg)
