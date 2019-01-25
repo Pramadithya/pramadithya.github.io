@@ -23,9 +23,9 @@ I am an **electrical telecommunication major student at Bandung Institute of Tec
 
 ### Awards
 
-**2nd Place-KRTI 2018-Technology Development Category**
+2nd Place-KRTI 2018-Technology Development Category
 
-**1st Place-IEEE Insight Symphosium**
+1st Place-IEEE Insight Symphosium
 
 ### Projects
 
