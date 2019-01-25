@@ -9,13 +9,13 @@ I am an **electrical telecommunication major student at Bandung Institute of Tec
 
 ### Experience
 
-**Engineering leader** for Programming and Embeded System Project.
+Engineering leader for Programming and Embeded System Project.
 
-**Team leader of Akash Adhyaksa** for KRTI 2018.
+Team leader of Akash Adhyaksa for KRTI 2018.
 
-**Chief of Telemetry Departement** of Aksantara ITB.
+Chief of Telemetry Departement of Aksantara ITB.
 
-**Expert of Electronics and Radio** of Bengkel Radio IMT "Signum".
+Expert of Electronics and Radio of Bengkel Radio IMT "Signum".
 
 ### Skills
 
