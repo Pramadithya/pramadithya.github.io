@@ -1,8 +1,9 @@
 ---
-layout: cv
+layout: page
 title: About
 permalink: /about/
 ---
+![_config.yml]({{ site.baseurl }}/images/pramadithya_about.jpg)
 
 Telecommunication Engineering student of Bandung Institute of Technology.
 
