@@ -12,6 +12,6 @@ I've done it. You can check it [here](https://pramadithya.github.io/pramadithya.
 First things first, I've never developed my skills in web design before, so when the lecturer told me that I've
 to include the CV in the web page, I was shocked. But then I study a little bit about HTML and CSS and finally
 made this page, but how about the CV? I'm not really there yet, I haven't developed my skill enough to
-make a fancy looking CV web page with a lot of gimmick like every one else.. So, yeah. I'll comeback when I'm ready...
+make a fancy looking CV web page with a lot of gimmick like every one else.. So, yeah. I'll come back when I'm ready...
 
 Yea, that's that I guess.. See ya around.
