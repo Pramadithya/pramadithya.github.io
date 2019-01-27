@@ -1,93 +1,17 @@
 ---
 layout: post
-title: Task
+title: CV
 ---
 
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+So.. I was told to make a CV for my self.. ![_config.yml]({{ site.baseurl }}/images/header-post-2.jpg)
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+I was tasked to make a **web page** and include my **CV** in it by my college lecturer. 
+Well.. I've planned to make one since forever, so its a good thing that the time to make it finally come and yea,
+I've done it. You can check it [here](https://pramadithya.github.io/pramadithya.github.io/about/).
 
+First things first, I've never develop my skills in web design before, so when the lecturer told me that I've
+to include the CV in the web page, I was shocked. But then I study a little bit about HTML and CSS and finally
+made this page, but how about the CV? I'm not really there yet, I haven't developed my skill enough to
+make a fancy looking CV web page with a lot of gimmick like every one else.. So, yeah. I'll comeback when I'm ready...
 
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
-
+Yea, that's that I guess.. See ya around.
