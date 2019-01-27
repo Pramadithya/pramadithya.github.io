@@ -3,7 +3,7 @@ layout: page
 title: Nice to meet you! My name's Pramadithya Herdian
 permalink: /about/
 ---
-![_config.yml]({{ site.baseurl }}/images/pramadithya_about.jpg)
+![_config.yml]({{ site.baseurl }}/images/CV.jpg)
 
 I am an **electrical telecommunication major student at Bandung Institute of Technology** with two years of experience in networking, electronics and radio frequency. My area of expertise is **antenna design** and **RF electronics planning and design**. Over the past three years, I led Akash Adhyaksa team for KRTI 2018 and Katingali team for IEEE Insight symphosium. I am currently the chief of Telemetry Departement of Aksantara ITB and an expert of electronics and radio of Bengkel Radio IMT "Signum". I am interested in leveraging my skills in RF telecommunication. 
 
